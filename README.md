@@ -1,0 +1,2 @@
+# todo-manager
+A web-based To-Do app with localStorage save support.
