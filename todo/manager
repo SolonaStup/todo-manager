@@ -1,0 +1,1 @@
+When entering a city name that does not exist, the script throws an unhandled error.
